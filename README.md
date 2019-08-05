@@ -1,6 +1,6 @@
 # CS261_DataStructure (2017 Fall)
 Assignment 0: <br />
-Sign up for Piazza & Get familiar with Github.
+Signing up for Piazza & Get familiar with Github.
 
 ------------------------
 Assignment 1: <br />
@@ -16,4 +16,4 @@ Working with binary search tree.
 
 ------------------------
 Assignment 4: <br />
-Create heap-based priority queue. 
+Creating heap-based priority queue. 
